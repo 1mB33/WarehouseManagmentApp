@@ -2,6 +2,7 @@
 Made in java with Swing. Handles easly implementable products class and save them to csv file.
 Project files were generetad with maven. GUI can be easly translated to diffrent languages through implementation of json file.
 
+# Screenshot
 <img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot01.png?raw=true" alt="Screenshot"/>
 <img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot02.png?raw=true" alt="Screenshot"/>
 
