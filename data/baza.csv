@@ -1,0 +1,17 @@
+PojazdyOsobowe.Warehouse.Products.Car;Hyundai_Tucson_2202202142614;12.02.2023;110000.0;1;Hyundai;Tucson;22.02.2021;Car;Benzynowy 1.6;177.0;265.0;201.0;Czerwony;AWD, Kamera 360°, Navi;5;SUV
+PojazdyOsobowe.Warehouse.Products.Car;Toyota_Corolla_1205201293394;10.01.2024;75000.0;9;Toyota;Corolla;12.05.2012;Car;Benzynowy 1.8;999.0;175.0;200.0;Srebrny;Klimatyzacja, ABS, ESP, Bluetooth;4;Sedan
+PojazdyOsobowe.Warehouse.Products.Car;Mazda_6_0112201821652;15.01.2024;85000.0;1;Mazda;6;01.12.2018;Car;Benzynowy 2.0;165.0;213.0;223.0;Granatowy;Head-Up, LED, Tempomat;4;Sedan
+PojazdyOsobowe.Warehouse.Products.Car;Audi_A4_1009201937905;25.01.2024;120000.0;1;Audi;A4;10.09.2019;Car;Diesel 2.0;192.0;400.0;240.0;Szary;Quattro, Navi, Klimatyzacja;4;Sedan
+PojazdyOsobowe.Warehouse.Products.Car;Skoda_Octavia_1407201936025;30.01.2024;75300.0;2;Skoda;Octavia;14.07.2019;Car;Diesel 2.0;125.0;360.0;222.0;Zielony;Tempomat, Czujniki parkowania;5;Kombi
+PojazdyOsobowe.Warehouse.Products.UsedCar;Volkswagen_Golf_VII_1203201891264;02.02.2024;20000.0;3;Volkswagen;Golf VII;12.03.2018;Used Car;Brak silnika;0.0;0.0;0.0;Zolty;Brak;5;Hatchback;Po wypadkowy (calkiem zniszczony)
+PojazdyOsobowe.Warehouse.Products.Car;Volkswagen_Golf_VII_1203201835336;02.02.2024;68000.0;3;Volkswagen;Golf VII;12.03.2018;Car;Diesel 2.0 TDI;150.0;216.0;3340.0;Czarny;Tempomat, Navi, Klimatronik;5;Hatchback
+PojazdyOsobowe.Warehouse.Products.Car;Ford_Focus_0804202186450;18.02.2024;82000.0;3;Ford;Focus;08.04.2021;Car;Benzynowy 1.5;120.0;240.0;210.0;Niebieski;Apple CarPlay, Kamera cofania;5;Hatchback
+PojazdyOsobowe.Warehouse.Products.Quad;Yamaha_Grizzly_700_0501202370220;28.02.2024;29000.0;1;Yamaha;Grizzly 700;05.01.2023;Quad;Diesel 1.0;70.0;90.0;220.0;Niebieski;ABS, Podgrzewane siedzenia;Szlak górski, Asfalt
+PojazdyOsobowe.Warehouse.Products.Car;BMW_320i_1506202018429;01.03.2024;115000.0;1;BMW;320i;15.06.2020;Car;Benzynowy 2.0;184.0;290.0;235.0;Biały;Skórzana tapicerka, LED, Czujniki parkowania;4;Sedan
+PojazdyOsobowe.Warehouse.Products.Car;MercedesBenz_C200_3011202060307;05.03.2024;135000.0;1;Mercedes-Benz;C200;30.11.2020;Car;Benzynowy 1.5;124.0;280.0;239.0;Czarny;Skóra, LED, Asystent pasa;4;Sedan
+PojazdyOsobowe.Warehouse.Products.Quad;Honda_Pioneer_1000_1708202285230;10.03.2024;33500.0;2;Honda;Pioneer 1000;17.08.2022;Quad;Benzynowy 1.2;85.0;100.0;230.0;Czarny;Klimatyzacja, Kamera cofania;Teren mieszany, Piasek
+PojazdyOsobowe.Warehouse.Products.Car;Kia_Ceed_0508202014242;10.03.2024;70000.0;4;Kia;Ceed;05.08.2020;Car;Benzynowy 1.4;140.0;242.0;205.0;Biały;Klimatyzacja, Bluetooth;5;Hatchback
+PojazdyOsobowe.Warehouse.Products.Quad;Polaris_Ranger_570_1206202252779;15.03.2024;25000.0;2;Polaris;Ranger 570;12.06.2022;Quad;Diesel 1.6;110.0;85.0;250.0;Czerwony;GPS, Radio, Hak holowniczy;Off-road, Błoto
+PojazdyOsobowe.Warehouse.Products.Quad;CFMOTO_CForce_500_2011202150503;05.04.2024;18500.0;3;CFMOTO;CForce 500;20.11.2021;Quad;Benzynowy 0.9;50.0;60.0;100.0;Zielony;Światła LED, Wyciągarka;Leśny, Teren pagórkowaty
+PojazdyOsobowe.Warehouse.Products.OnionDummyTestClass;CebulaPl_Cebula_czerowna_2812202545546;12.12.2025;20.0;900;CebulaPl;Cebula czerowna;28.12.2025;Food;Czerwony;Wegry;20.02.2026
+PojazdyOsobowe.Warehouse.Products.Car;Fiat_125p_01011975100M;28.12.2025;1000000.0;1;Fiat;125p;01.01.1975;Car;Benzynowy 1.5;75.0;115.0;160.0;Czerwony;Klasyk, Prosty, Niezawodny;4;Sedan
