@@ -1,4 +1,5 @@
 # Warehouse managment application
+Project was made for a java class assigment.
 Made in java with Swing. 
 Project files were generetad with maven.
 ## Why it's in some way unique
