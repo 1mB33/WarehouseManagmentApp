@@ -3,7 +3,7 @@ Project was made for a java class assigment.
 Made in java with Swing. 
 Project files were generetad with maven.
 ## Why it is unique in some way
-Handles easly implementable products class with reflection and save them to csv file.<br>
+Handles easly implementable products class with reflection and save them or reads them from csv file.<br>
 [Example of minimal implementation of product class.](https://github.com/1mB33/WarehouseManagmentApp/blob/main/src/main/java/PojazdyOsobowe/Warehouse/Products/OnionDummyTestClass.java)<br>
 ## Description
 GUI can be easly translated to diffrent languages through implementation of json file. Filetring and sorting of the tables is implemented.
