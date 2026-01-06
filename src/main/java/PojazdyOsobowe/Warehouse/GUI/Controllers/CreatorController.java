@@ -24,6 +24,9 @@ public class CreatorController
     public JComponent getComponent()
     { return this.view.getComponent(); }
 
+    public ProductFormController getForm()
+    { return this.creator; }
+
 // Setters // ---------------------------------------------------------------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------------
 

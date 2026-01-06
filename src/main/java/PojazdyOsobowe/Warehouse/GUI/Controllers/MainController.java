@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.lang.reflect.Field;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Optional;
 
@@ -53,6 +54,15 @@ public class MainController
     public JComponent getComponent()
     { return this.view.getComponent(); }
 
+    public Database<Product> getDatabase()
+    { return this.db; }
+
+    public DatabaseController<Product> getTableController()
+    { return this.tables.getActiveTable(); }
+
+    public ProductFormController getFormController()
+    { return this.creator.getForm(); }
+
 // Methods // ---------------------------------------------------------------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------------
     
@@ -63,6 +73,38 @@ public class MainController
     { 
         if (this.db != null && this.databasePath != null)
             this.db.saveFile(this.databasePath); 
+    }
+
+    public void createAndAddProduct(HashMap<String, String> baseProductParams, HashMap<String, String> customProductParams)
+    { 
+        try {
+            Product newProduct = this.creator.getForm().tryToCreateCustomMaps(baseProductParams, customProductParams);
+
+            if (newProduct == null) 
+                return;
+
+            DatabaseController<Product>   table       = this.tables.getActiveTable();
+            Optional<Product>             duplicate   = this.db
+                                                            .getList()
+                                                            .stream()
+                                                            .filter(c -> c.equals(newProduct))
+                                                            .findFirst();
+
+
+            if (duplicate.isEmpty()) {
+                table.add(newProduct);
+                table.scrollDown();
+            }
+            else {
+                table.increaseAmount(duplicate.get(), newProduct.getAmount());
+            }
+
+            if (table.getHandledClass() != newProduct.getClass()) 
+                this.tables.reloadTablesThatHandles(newProduct.getClass());
+
+        } catch (Exception e) {
+            view.setMessage(e.getMessage());
+        }
     }
 
 // Internal // --------------------------------------------------------------------------------------------------------

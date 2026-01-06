@@ -1,5 +1,8 @@
 package PojazdyOsobowe.Warehouse.GUI.Controllers;
 
+import java.util.HashMap;
+import java.util.List;
+
 import javax.swing.*;
 
 import PojazdyOsobowe.Warehouse.GUI.Views.*;
@@ -23,6 +26,9 @@ public class ProductFormController
     
     public JComponent getComponent()
     { return this.view.getComponent(); }
+
+    public List<String> getParametersNames()
+    { return this.model.getParametersNames(); }
 
 // Setters // ---------------------------------------------------------------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------------
@@ -69,6 +75,10 @@ public class ProductFormController
         return (Product)this.model.tryToCreatoFromParams(this.view.getProductParameters(), 
                                                          this.view.getCustomParameters());
     }
+
+    public Product tryToCreateCustomMaps(HashMap<String, String> productParams, HashMap<String, String> customParams)
+        throws Exception
+    { return (Product)this.model.tryToCreatoFromParams(productParams, customParams); }
 
 // Members // ---------------------------------------------------------------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------------
