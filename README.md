@@ -32,7 +32,7 @@ Dynamiczne filtrowanie i sortowanie tabel jest dostepne po nacisnieciu prawego p
 Aplikacja byla testowana na bazie danych skladajacej sie z 10 000 wpisow i dzialala na akceptowalnym poziomie.
 Wieksze bazy danych moga spowalniac aplikacje, poniewaz aplikacja wykorzystuje tylko jeden watek.
 Kod powinnen byc mniej lub bardziej prosty do rozbudowania.
-Komentarze sa w jezyku polskim poniewaz projekt zostal stworzony na zaliczenie przedmiotu.
+Komentarze sa w jezyku polskim, poniewaz projekt zostal stworzony na zaliczenie przedmiotu.
 
 ## Czemu jest wyjatkowa w pewien sposob?
 Projekt pozwala operowac, wyswietlac, zapisywyac i wczytywac klasy dziedziczace z klasy produktu, ktore sa latwe do zaimplementowania.<br>
