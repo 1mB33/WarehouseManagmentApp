@@ -2,5 +2,7 @@
 .metadata
 .project
 .classpath
+.xml
 
 target
+
