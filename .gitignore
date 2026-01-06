@@ -2,7 +2,7 @@
 .metadata
 .project
 .classpath
-.xml
+*.xml
 
 target
 
