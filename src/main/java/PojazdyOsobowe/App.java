@@ -29,7 +29,7 @@ public class App
     public App()
     {
         try {
-            Translator.get().loadTranslation("polish");
+            // Translator.get().loadTranslation("polish");
         } catch (Exception e) {
             System.err.println("Couldn't load polish translation [" + e.getMessage() + "]");
             e.printStackTrace();

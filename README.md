@@ -14,4 +14,5 @@ Code should be relatively easy to bulid on. Comments are in polish, because proj
 <img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot_01.png?raw=true" alt="Screenshot"/>
 <img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot_02.png?raw=true" alt="Screenshot"/>
 <img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot_03.png?raw=true" alt="Screenshot"/>
+<img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot_04.png?raw=true" alt="Screenshot"/>
 
