@@ -21,7 +21,7 @@ Handles easly implementable products class with reflection and save them or read
 <img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot_01.png?raw=true" alt="Screenshot"/>
 <img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot_04.png?raw=true" alt="Screenshot"/>
 
-# Aplikacja zarzadzajaca magazanyem
+# Aplikacja zarzadzajaca magazynem
 Projekt zostal stworzony na zaliczenie przedmiotu programowania w jezyku Java.
 Wykonany w javie, z Java Swing.
 Pliki projektu zostaly wygenerowane z uzyciem Maven.
