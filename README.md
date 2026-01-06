@@ -27,7 +27,7 @@ Wykonany w javie, z Java Swing.
 Pliki projektu zostaly wygenerowane z uzyciem Maven.
 
 ## Opis
-GUI moze byc w latwy sposob przetlumaczone na rozne jezyki przez implementacje pliki z tlumaczeniem w formacie json.
+GUI moze byc w latwy sposob przetlumaczone na rozne jezyki przez implementacje pliku z tlumaczeniem w formacie json.
 Dynamiczne filtrowanie i sortowanie tabel jest dostepne po nacisnieciu prawego przycisku myszy na dana kolmune.
 Aplikacja byla testowana na bazie danych skladajacej sie z 10 000 wpisow i dzialala na akceptowalnym poziomie.
 Wieksze bazy danych moga spowalniac aplikacje, poniewaz aplikacja wykorzystuje tylko jeden watek.
