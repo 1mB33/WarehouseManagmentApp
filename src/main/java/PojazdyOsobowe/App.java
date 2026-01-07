@@ -28,7 +28,7 @@ public class App
      */
     public static void main(String[] args)
     {
-        new App().runCli();
+        new App().run();
     }
 
     /**
