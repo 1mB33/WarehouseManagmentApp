@@ -17,6 +17,7 @@ Code should be relatively easy to bulid on. Comments are in polish, because proj
 ## Why it is unique in some way?
 Handles easly implementable products class with reflection and save them or reads them from csv file.<br>
 [Example of minimal implementation of product class.](https://github.com/1mB33/WarehouseManagmentApp/blob/main/src/main/java/PojazdyOsobowe/Warehouse/Products/OnionDummyTestClass.java)<br>
+The GUI is dynamically rendered, based on programmer defined product derived class.
 
 # Screenshot
 <img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot_01.png?raw=true" alt="Screenshot"/>
@@ -38,6 +39,7 @@ Komentarze sa w jezyku polskim, poniewaz projekt zostal stworzony na zaliczenie 
 ## Czemu jest wyjatkowa w pewien sposob?
 Projekt pozwala operowac, wyswietlac, zapisywyac i wczytywac klasy dziedziczace z klasy produktu, ktore sa latwe do zaimplementowania.<br>
 [Przyklad minimalnej implementacji klasy obslugiwanej przez aplikacje.](https://github.com/1mB33/WarehouseManagmentApp/blob/main/src/main/java/PojazdyOsobowe/Warehouse/Products/OnionDummyTestClass.java)<br>
+GUI jest dynamicznie rnderowane na bazie zaimplementowanej przez przez prograiste klasy dziedziczonej z produktu.
 
 # Screenshoty
 <img src="https://github.com/1mB33/WarehouseManagmentApp/blob/main/docs/screenshot_02.png?raw=true" alt="Screenshot"/>
